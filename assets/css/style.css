@@ -361,11 +361,11 @@ section {
     content: '';
     position: absolute;
     display: block;
-    width: 40px;
+    width: 130px;
     height: 3px;
     background: #0563bb;
     bottom: 0;
-    left: calc(50% - 20px);
+    left: calc(50% - 65px);
 }
 
 .section-title p {
