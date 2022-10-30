@@ -147,7 +147,6 @@ h6 {
     .nav-menu a {
         width: 56px;
     }
-
     .nav-menu a span {
         display: none;
         color: #fff;
@@ -279,7 +278,7 @@ h6 {
 }
 
 #hero .pad {
-    padding-top: 22vh;
+    padding-top: 7rem;
 }
 
 .m_btn {
@@ -311,20 +310,14 @@ h6 {
     #hero {
         text-align: center;
     }
-
     #hero h1 {
         font-size: 32px;
         line-height: 36px;
     }
-
     #hero p {
         margin-top: 10px;
         font-size: 20px;
         line-height: 24px;
-    }
-
-    #hero .pad {
-        padding-top: 5vh;
     }
 }
 
@@ -334,7 +327,7 @@ h6 {
 --------------------------------------------------------------*/
 
 section {
-    padding: 30px 0;
+    padding: 60px 0;
     overflow: hidden;
 }
 
@@ -383,9 +376,6 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-#about {
-    margin-top: 30px;
-}
 
 .about .content h3 {
     font-weight: 700;
@@ -412,11 +402,6 @@ section {
     margin-bottom: 0;
 }
 
-@media (max-width: 992px) {
-    .overview_resume_btn {
-        width: 100%;
-    }
-}
 
 /*--------------------------------------------------------------
 # Resume
