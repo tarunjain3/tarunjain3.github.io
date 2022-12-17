@@ -97,6 +97,10 @@ h6 {
     #main {
         margin-left: 100px;
     }
+
+    #header {
+        justify-content: center;
+    }
 }
 
 
